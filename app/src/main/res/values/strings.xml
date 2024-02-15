@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="operator">
+        <item>tambah</item>
+        <item>kurang</item>
+        <item>kali</item>
+        <item>bagi</item>
+    </string-array>
+</resources>
